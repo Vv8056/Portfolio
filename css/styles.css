@@ -840,7 +840,7 @@ body::-webkit-scrollbar {
 
 /* if visible then animate */
 .visible {
-    animation: fadeInUp 1.1s ease-in-out forwards;
+    animation: fadeInUp 0.8s ease-in-out forwards;
 }
 
 /* when go out / top then Fade Out */

@@ -214,7 +214,7 @@ container1.addEventListener('wheel', (event) => {
 // download button
 document.getElementById("downloadCV").addEventListener("click", () => {
     // URL of the PDF file
-    const pdfUrl = "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg"; // Replace with the actual path to your PDF
+    const pdfUrl = "cv/My_resume.pdf"; // Replace with the actual path to your PDF
     // Create a link element
     const link = document.createElement("a");
     // Set the link's href to the PDF file URL
